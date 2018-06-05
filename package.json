@@ -1,0 +1,30 @@
+{
+  "name": "mean-backend",
+  "version": "1.0.0",
+  "description": "NodeJS application that demonstrate simple CRUD operations using MongoDB",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mahavir1408/mean-backend.git"
+  },
+  "keywords": [
+    "CRUD",
+    "operations",
+    "MongoDB",
+    "NodeJS"
+  ],
+  "author": "Mahavir Munot",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mahavir1408/mean-backend/issues"
+  },
+  "homepage": "https://github.com/mahavir1408/mean-backend#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.3",
+    "mongoose": "^5.1.4"
+  }
+}
